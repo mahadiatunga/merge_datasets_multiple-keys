@@ -1,0 +1,769 @@
+,Country Name,Series Name,Year,value
+0,Australia,General government final consumption expenditure (% of GDP),2000,17.787098111044394
+1,China,General government final consumption expenditure (% of GDP),2000,16.633345626047745
+2,India,General government final consumption expenditure (% of GDP),2000,11.94783546894641
+3,Japan,General government final consumption expenditure (% of GDP),2000,16.852038898360753
+4,"Korea, Rep.",General government final consumption expenditure (% of GDP),2000,11.338341641154399
+5,Mexico,General government final consumption expenditure (% of GDP),2000,9.515219344385882
+6,Switzerland,General government final consumption expenditure (% of GDP),2000,11.577088129860464
+7,Turkey,General government final consumption expenditure (% of GDP),2000,11.98649485904711
+8,United Kingdom,General government final consumption expenditure (% of GDP),2000,16.780617185581907
+9,United States,General government final consumption expenditure (% of GDP),2000,14.026009999851874
+10,Angola,General government final consumption expenditure (% of GDP),2000,17.84263437025915
+11,Botswana,General government final consumption expenditure (% of GDP),2000,24.902729005888744
+12,Burkina Faso,General government final consumption expenditure (% of GDP),2000,20.657536731362235
+13,Burundi,General government final consumption expenditure (% of GDP),2000,14.856698326361839
+14,Cameroon,General government final consumption expenditure (% of GDP),2000,10.685926608292194
+15,Canada,General government final consumption expenditure (% of GDP),2000,19.17019765362855
+16,Chile,General government final consumption expenditure (% of GDP),2000,12.082563326267163
+17,Colombia,General government final consumption expenditure (% of GDP),2000,16.472850559389247
+18,"Congo, Rep.",General government final consumption expenditure (% of GDP),2000,11.568069792802618
+19,Cote d'Ivoire,General government final consumption expenditure (% of GDP),2000,14.351020003758716
+20,Czech Republic,General government final consumption expenditure (% of GDP),2000,19.87107636275302
+21,Denmark,General government final consumption expenditure (% of GDP),2000,23.873764606384782
+22,Ethiopia,General government final consumption expenditure (% of GDP),2000,8.302188717520892
+23,Ghana,General government final consumption expenditure (% of GDP),2000,10.171615873308166
+24,Hungary,General government final consumption expenditure (% of GDP),2000,21.197290433871018
+25,Iceland,General government final consumption expenditure (% of GDP),2000,22.49589786812703
+26,Israel,General government final consumption expenditure (% of GDP),2000,24.319334659930377
+27,Kenya,General government final consumption expenditure (% of GDP),2000,15.054292255617895
+28,Lesotho,General government final consumption expenditure (% of GDP),2000,34.849600303394176
+29,Madagascar,General government final consumption expenditure (% of GDP),2000,9.0428190872965
+30,Malawi,General government final consumption expenditure (% of GDP),2000,14.577838547156752
+31,Mali,General government final consumption expenditure (% of GDP),2000,16.41743626954702
+32,Mauritius,General government final consumption expenditure (% of GDP),2000,14.251781551271975
+33,Namibia,General government final consumption expenditure (% of GDP),2000,23.961594608246177
+34,Niger,General government final consumption expenditure (% of GDP),2000,13.038928303655107
+35,Nigeria,General government final consumption expenditure (% of GDP),2000,2.1234421976304354
+36,Norway,General government final consumption expenditure (% of GDP),2000,18.88669878184787
+37,Poland,General government final consumption expenditure (% of GDP),2000,18.075664764026172
+38,Rwanda,General government final consumption expenditure (% of GDP),2000,18.67226545224886
+39,Senegal,General government final consumption expenditure (% of GDP),2000,12.790519764132105
+40,Seychelles,General government final consumption expenditure (% of GDP),2000,42.207816013434666
+41,South Africa,General government final consumption expenditure (% of GDP),2000,18.386937243481093
+42,Sweden,General government final consumption expenditure (% of GDP),2000,24.672510238361927
+43,Tanzania,General government final consumption expenditure (% of GDP),2000,7.851180074881083
+44,Togo,General government final consumption expenditure (% of GDP),2000,12.486586324610473
+45,Uganda,General government final consumption expenditure (% of GDP),2000,14.50432439852718
+46,United Arab Emirates,General government final consumption expenditure (% of GDP),2000,9.914023517447527
+47,Zambia,General government final consumption expenditure (% of GDP),2000,12.184391117454842
+48,Australia,General government final consumption expenditure (% of GDP),2001,17.78315788876502
+49,China,General government final consumption expenditure (% of GDP),2001,16.08999666549753
+50,India,General government final consumption expenditure (% of GDP),2001,11.761449889089915
+51,Japan,General government final consumption expenditure (% of GDP),2001,17.534688960908596
+52,"Korea, Rep.",General government final consumption expenditure (% of GDP),2001,12.186802901455742
+53,Mexico,General government final consumption expenditure (% of GDP),2001,9.881126033076708
+54,Switzerland,General government final consumption expenditure (% of GDP),2001,11.678320034537172
+55,Turkey,General government final consumption expenditure (% of GDP),2001,12.740596927658347
+56,United Kingdom,General government final consumption expenditure (% of GDP),2001,17.41313354612064
+57,United States,General government final consumption expenditure (% of GDP),2001,14.528614139577959
+58,Angola,General government final consumption expenditure (% of GDP),2001,25.154632724335755
+59,Botswana,General government final consumption expenditure (% of GDP),2001,23.48663221677857
+60,Burkina Faso,General government final consumption expenditure (% of GDP),2001,25.793966487386477
+61,Burundi,General government final consumption expenditure (% of GDP),2001,15.533073816584828
+62,Cameroon,General government final consumption expenditure (% of GDP),2001,11.696385921945646
+63,Canada,General government final consumption expenditure (% of GDP),2001,19.57825700018851
+64,Chile,General government final consumption expenditure (% of GDP),2001,12.12155904384288
+65,Colombia,General government final consumption expenditure (% of GDP),2001,16.566231719142266
+66,"Congo, Rep.",General government final consumption expenditure (% of GDP),2001,14.089732949275009
+67,Cote d'Ivoire,General government final consumption expenditure (% of GDP),2001,13.614935466516375
+68,Czech Republic,General government final consumption expenditure (% of GDP),2001,19.825612883807985
+69,Denmark,General government final consumption expenditure (% of GDP),2001,24.324911738581143
+70,Ethiopia,General government final consumption expenditure (% of GDP),2001,8.955473678334801
+71,Ghana,General government final consumption expenditure (% of GDP),2001,9.722363917658463
+72,Hungary,General government final consumption expenditure (% of GDP),2001,21.083253781163343
+73,Iceland,General government final consumption expenditure (% of GDP),2001,22.677670343196173
+74,Israel,General government final consumption expenditure (% of GDP),2001,25.51696114843322
+75,Kenya,General government final consumption expenditure (% of GDP),2001,15.972911751473456
+76,Lesotho,General government final consumption expenditure (% of GDP),2001,37.313090615716426
+77,Madagascar,General government final consumption expenditure (% of GDP),2001,9.090522828072706
+78,Malawi,General government final consumption expenditure (% of GDP),2001,15.808830536924365
+79,Mali,General government final consumption expenditure (% of GDP),2001,14.998356118396508
+80,Mauritius,General government final consumption expenditure (% of GDP),2001,13.925942395732157
+81,Namibia,General government final consumption expenditure (% of GDP),2001,23.288383574153247
+82,Niger,General government final consumption expenditure (% of GDP),2001,12.383772791023844
+83,Nigeria,General government final consumption expenditure (% of GDP),2001,1.9906214744459174
+84,Norway,General government final consumption expenditure (% of GDP),2001,20.062698730299573
+85,Poland,General government final consumption expenditure (% of GDP),2001,18.658162120580787
+86,Rwanda,General government final consumption expenditure (% of GDP),2001,18.69972178489012
+87,Senegal,General government final consumption expenditure (% of GDP),2001,12.605314489801996
+88,Seychelles,General government final consumption expenditure (% of GDP),2001,41.61995939531949
+89,South Africa,General government final consumption expenditure (% of GDP),2001,18.534064144133122
+90,Sweden,General government final consumption expenditure (% of GDP),2001,24.878480053697334
+91,Tanzania,General government final consumption expenditure (% of GDP),2001,8.00368234648943
+92,Togo,General government final consumption expenditure (% of GDP),2001,13.438282304873939
+93,Uganda,General government final consumption expenditure (% of GDP),2001,15.58184486112492
+94,United Arab Emirates,General government final consumption expenditure (% of GDP),2001,9.914023517447527
+95,Zambia,General government final consumption expenditure (% of GDP),2001,14.523945779887029
+96,Australia,General government final consumption expenditure (% of GDP),2002,17.544245763689375
+97,China,General government final consumption expenditure (% of GDP),2002,15.603177082552639
+98,India,General government final consumption expenditure (% of GDP),2002,11.31409506933322
+99,Japan,General government final consumption expenditure (% of GDP),2002,18.127132082214604
+100,"Korea, Rep.",General government final consumption expenditure (% of GDP),2002,12.134765661656072
+101,Mexico,General government final consumption expenditure (% of GDP),2002,10.377716445941864
+102,Switzerland,General government final consumption expenditure (% of GDP),2002,12.063199549584068
+103,Turkey,General government final consumption expenditure (% of GDP),2002,12.933919181204455
+104,United Kingdom,General government final consumption expenditure (% of GDP),2002,18.19089686637253
+105,United States,General government final consumption expenditure (% of GDP),2002,15.041861434509732
+106,Angola,General government final consumption expenditure (% of GDP),2002,19.130578537237838
+107,Botswana,General government final consumption expenditure (% of GDP),2002,22.379125987912598
+108,Burkina Faso,General government final consumption expenditure (% of GDP),2002,21.184374244716373
+109,Burundi,General government final consumption expenditure (% of GDP),2002,14.732986844907142
+110,Cameroon,General government final consumption expenditure (% of GDP),2002,11.284429081205365
+111,Canada,General government final consumption expenditure (% of GDP),2002,19.849140612651876
+112,Chile,General government final consumption expenditure (% of GDP),2002,12.219726156200851
+113,Colombia,General government final consumption expenditure (% of GDP),2002,16.04089302674433
+114,"Congo, Rep.",General government final consumption expenditure (% of GDP),2002,18.357166611240437
+115,Cote d'Ivoire,General government final consumption expenditure (% of GDP),2002,12.977068456249185
+116,Czech Republic,General government final consumption expenditure (% of GDP),2002,21.287128343657848
+117,Denmark,General government final consumption expenditure (% of GDP),2002,24.869054194928164
+118,Ethiopia,General government final consumption expenditure (% of GDP),2002,9.249591843766643
+119,Ghana,General government final consumption expenditure (% of GDP),2002,9.872770250910728
+120,Hungary,General government final consumption expenditure (% of GDP),2002,21.864447796669687
+121,Iceland,General government final consumption expenditure (% of GDP),2002,24.32817940373517
+122,Israel,General government final consumption expenditure (% of GDP),2002,26.877226589463714
+123,Kenya,General government final consumption expenditure (% of GDP),2002,17.077999909211464
+124,Lesotho,General government final consumption expenditure (% of GDP),2002,34.57777944661617
+125,Madagascar,General government final consumption expenditure (% of GDP),2002,8.135257981782082
+126,Malawi,General government final consumption expenditure (% of GDP),2002,10.50719159042799
+127,Mali,General government final consumption expenditure (% of GDP),2002,15.360704396185213
+128,Mauritius,General government final consumption expenditure (% of GDP),2002,14.160138308705902
+129,Namibia,General government final consumption expenditure (% of GDP),2002,22.04948557821735
+130,Niger,General government final consumption expenditure (% of GDP),2002,12.23521285034373
+131,Nigeria,General government final consumption expenditure (% of GDP),2002,1.3404879841130637
+132,Norway,General government final consumption expenditure (% of GDP),2002,21.669530167979264
+133,Poland,General government final consumption expenditure (% of GDP),2002,18.63025325153556
+134,Rwanda,General government final consumption expenditure (% of GDP),2002,19.570004388989908
+135,Senegal,General government final consumption expenditure (% of GDP),2002,13.266416910200022
+136,Seychelles,General government final consumption expenditure (% of GDP),2002,47.19156027626622
+137,South Africa,General government final consumption expenditure (% of GDP),2002,18.80519032421042
+138,Sweden,General government final consumption expenditure (% of GDP),2002,25.596684946013482
+139,Tanzania,General government final consumption expenditure (% of GDP),2002,8.864388407737737
+140,Togo,General government final consumption expenditure (% of GDP),2002,10.575788519703808
+141,Uganda,General government final consumption expenditure (% of GDP),2002,16.792469696390064
+142,United Arab Emirates,General government final consumption expenditure (% of GDP),2002,10.146486276017432
+143,Zambia,General government final consumption expenditure (% of GDP),2002,14.780585349308078
+144,Australia,General government final consumption expenditure (% of GDP),2003,17.595385537355178
+145,China,General government final consumption expenditure (% of GDP),2003,14.67687670812742
+146,India,General government final consumption expenditure (% of GDP),2003,10.876209912950866
+147,Japan,General government final consumption expenditure (% of GDP),2003,18.193359069943053
+148,"Korea, Rep.",General government final consumption expenditure (% of GDP),2003,12.46776327934619
+149,Mexico,General government final consumption expenditure (% of GDP),2003,11.033790373907147
+150,Switzerland,General government final consumption expenditure (% of GDP),2003,12.246455299093146
+151,Turkey,General government final consumption expenditure (% of GDP),2003,12.702239331144538
+152,United Kingdom,General government final consumption expenditure (% of GDP),2003,18.861145439189993
+153,United States,General government final consumption expenditure (% of GDP),2003,15.246542302649354
+154,Angola,General government final consumption expenditure (% of GDP),2003,21.854259210424043
+155,Botswana,General government final consumption expenditure (% of GDP),2003,22.008716057649256
+156,Burkina Faso,General government final consumption expenditure (% of GDP),2003,19.872285013310293
+157,Burundi,General government final consumption expenditure (% of GDP),2003,17.461335272990002
+158,Cameroon,General government final consumption expenditure (% of GDP),2003,11.519731190815643
+159,Canada,General government final consumption expenditure (% of GDP),2003,19.966616466064206
+160,Chile,General government final consumption expenditure (% of GDP),2003,11.71973543021934
+161,Colombia,General government final consumption expenditure (% of GDP),2003,15.610347169949884
+162,"Congo, Rep.",General government final consumption expenditure (% of GDP),2003,17.35899202677429
+163,Cote d'Ivoire,General government final consumption expenditure (% of GDP),2003,14.803452079887574
+164,Czech Republic,General government final consumption expenditure (% of GDP),2003,22.26042580688319
+165,Denmark,General government final consumption expenditure (% of GDP),2003,25.038024258117225
+166,Ethiopia,General government final consumption expenditure (% of GDP),2003,8.302188717520892
+167,Ghana,General government final consumption expenditure (% of GDP),2003,11.533203240136823
+168,Hungary,General government final consumption expenditure (% of GDP),2003,23.00937852892976
+169,Iceland,General government final consumption expenditure (% of GDP),2003,25.067462427431973
+170,Israel,General government final consumption expenditure (% of GDP),2003,26.068647202779903
+171,Kenya,General government final consumption expenditure (% of GDP),2003,18.131318575485388
+172,Lesotho,General government final consumption expenditure (% of GDP),2003,36.473412886087296
+173,Madagascar,General government final consumption expenditure (% of GDP),2003,9.227846822881823
+174,Malawi,General government final consumption expenditure (% of GDP),2003,9.397913391017115
+175,Mali,General government final consumption expenditure (% of GDP),2003,15.566553474009535
+176,Mauritius,General government final consumption expenditure (% of GDP),2003,14.079492462657253
+177,Namibia,General government final consumption expenditure (% of GDP),2003,22.755040898109677
+178,Niger,General government final consumption expenditure (% of GDP),2003,15.58135433070866
+179,Nigeria,General government final consumption expenditure (% of GDP),2003,0.9517465731759376
+180,Norway,General government final consumption expenditure (% of GDP),2003,21.99191045962512
+181,Poland,General government final consumption expenditure (% of GDP),2003,18.90203681155651
+182,Rwanda,General government final consumption expenditure (% of GDP),2003,19.209806793751476
+183,Senegal,General government final consumption expenditure (% of GDP),2003,13.001446500440577
+184,Seychelles,General government final consumption expenditure (% of GDP),2003,44.31280665389762
+185,South Africa,General government final consumption expenditure (% of GDP),2003,19.057888043591404
+186,Sweden,General government final consumption expenditure (% of GDP),2003,25.87273915561398
+187,Tanzania,General government final consumption expenditure (% of GDP),2003,10.37831538706024
+188,Togo,General government final consumption expenditure (% of GDP),2003,10.857984886321404
+189,Uganda,General government final consumption expenditure (% of GDP),2003,15.745053345913965
+190,United Arab Emirates,General government final consumption expenditure (% of GDP),2003,9.750233552251864
+191,Zambia,General government final consumption expenditure (% of GDP),2003,9.379638515921778
+192,Australia,General government final consumption expenditure (% of GDP),2004,17.49537477396494
+193,China,General government final consumption expenditure (% of GDP),2004,13.90202054257514
+194,India,General government final consumption expenditure (% of GDP),2004,10.404702348141548
+195,Japan,General government final consumption expenditure (% of GDP),2004,18.102929676327832
+196,"Korea, Rep.",General government final consumption expenditure (% of GDP),2004,12.789334101645247
+197,Mexico,General government final consumption expenditure (% of GDP),2004,10.487289795328651
+198,Switzerland,General government final consumption expenditure (% of GDP),2004,12.006336701738064
+199,Turkey,General government final consumption expenditure (% of GDP),2004,12.439613002831901
+200,United Kingdom,General government final consumption expenditure (% of GDP),2004,19.491973505599457
+201,United States,General government final consumption expenditure (% of GDP),2004,15.16888067273922
+202,Angola,General government final consumption expenditure (% of GDP),2004,14.312059809532782
+203,Botswana,General government final consumption expenditure (% of GDP),2004,20.53234393666293
+204,Burkina Faso,General government final consumption expenditure (% of GDP),2004,20.774584108103923
+205,Burundi,General government final consumption expenditure (% of GDP),2004,19.227266295452537
+206,Cameroon,General government final consumption expenditure (% of GDP),2004,11.211058746621697
+207,Canada,General government final consumption expenditure (% of GDP),2004,19.483780919019907
+208,Chile,General government final consumption expenditure (% of GDP),2004,10.961713512244655
+209,Colombia,General government final consumption expenditure (% of GDP),2004,15.681598118026264
+210,"Congo, Rep.",General government final consumption expenditure (% of GDP),2004,14.972717648016939
+211,Cote d'Ivoire,General government final consumption expenditure (% of GDP),2004,14.89503125050026
+212,Czech Republic,General government final consumption expenditure (% of GDP),2004,20.982293880312586
+213,Denmark,General government final consumption expenditure (% of GDP),2004,24.933900599433812
+214,Ethiopia,General government final consumption expenditure (% of GDP),2004,8.955473678334801
+215,Ghana,General government final consumption expenditure (% of GDP),2004,12.172811881046833
+216,Hungary,General government final consumption expenditure (% of GDP),2004,22.05592923282918
+217,Iceland,General government final consumption expenditure (% of GDP),2004,24.030522440337723
+218,Israel,General government final consumption expenditure (% of GDP),2004,24.687019100666095
+219,Kenya,General government final consumption expenditure (% of GDP),2004,17.860065964127
+220,Lesotho,General government final consumption expenditure (% of GDP),2004,35.24404094901802
+221,Madagascar,General government final consumption expenditure (% of GDP),2004,6.9407396637362355
+222,Malawi,General government final consumption expenditure (% of GDP),2004,9.439587377599194
+223,Mali,General government final consumption expenditure (% of GDP),2004,15.460917109288433
+224,Mauritius,General government final consumption expenditure (% of GDP),2004,14.202051743711861
+225,Namibia,General government final consumption expenditure (% of GDP),2004,20.76655584080589
+226,Niger,General government final consumption expenditure (% of GDP),2004,16.325644841269842
+227,Nigeria,General government final consumption expenditure (% of GDP),2004,4.787637352408331
+228,Norway,General government final consumption expenditure (% of GDP),2004,20.80330001906877
+229,Poland,General government final consumption expenditure (% of GDP),2004,18.279814203129053
+230,Rwanda,General government final consumption expenditure (% of GDP),2004,18.35129643553801
+231,Senegal,General government final consumption expenditure (% of GDP),2004,13.459063004307414
+232,Seychelles,General government final consumption expenditure (% of GDP),2004,38.93412103600066
+233,South Africa,General government final consumption expenditure (% of GDP),2004,19.1575642530287
+234,Sweden,General government final consumption expenditure (% of GDP),2004,25.184388035146732
+235,Tanzania,General government final consumption expenditure (% of GDP),2004,11.475902936449934
+236,Togo,General government final consumption expenditure (% of GDP),2004,11.03509036902784
+237,Uganda,General government final consumption expenditure (% of GDP),2004,13.887302274043629
+238,United Arab Emirates,General government final consumption expenditure (% of GDP),2004,8.746697517086305
+239,Zambia,General government final consumption expenditure (% of GDP),2004,10.245500186350382
+240,Australia,General government final consumption expenditure (% of GDP),2005,17.561588558183203
+241,China,General government final consumption expenditure (% of GDP),2005,13.995044524752439
+242,India,General government final consumption expenditure (% of GDP),2005,10.3661401973026
+243,Japan,General government final consumption expenditure (% of GDP),2005,18.117221437009857
+244,"Korea, Rep.",General government final consumption expenditure (% of GDP),2005,13.28286134347209
+245,Mexico,General government final consumption expenditure (% of GDP),2005,10.521706666505674
+246,Switzerland,General government final consumption expenditure (% of GDP),2005,11.822565140499115
+247,Turkey,General government final consumption expenditure (% of GDP),2005,12.304865800698893
+248,United Kingdom,General government final consumption expenditure (% of GDP),2005,19.699070526272063
+249,United States,General government final consumption expenditure (% of GDP),2005,15.055297726433867
+250,Angola,General government final consumption expenditure (% of GDP),2005,16.02903717533032
+251,Botswana,General government final consumption expenditure (% of GDP),2005,19.40074505726584
+252,Burkina Faso,General government final consumption expenditure (% of GDP),2005,19.769418044322126
+253,Burundi,General government final consumption expenditure (% of GDP),2005,14.100000000000001
+254,Cameroon,General government final consumption expenditure (% of GDP),2005,10.953581071686516
+255,Canada,General government final consumption expenditure (% of GDP),2005,19.137095385553426
+256,Chile,General government final consumption expenditure (% of GDP),2005,10.576582527249604
+257,Colombia,General government final consumption expenditure (% of GDP),2005,13.998299024225306
+258,"Congo, Rep.",General government final consumption expenditure (% of GDP),2005,12.994051141495625
+259,Cote d'Ivoire,General government final consumption expenditure (% of GDP),2005,14.427445042613787
+260,Czech Republic,General government final consumption expenditure (% of GDP),2005,20.679579445936223
+261,Denmark,General government final consumption expenditure (% of GDP),2005,24.498688911882393
+262,Ethiopia,General government final consumption expenditure (% of GDP),2005,9.249591843766643
+263,Ghana,General government final consumption expenditure (% of GDP),2005,15.308165262880829
+264,Hungary,General government final consumption expenditure (% of GDP),2005,22.167686223170673
+265,Iceland,General government final consumption expenditure (% of GDP),2005,23.780399946369496
+266,Israel,General government final consumption expenditure (% of GDP),2005,24.23014092046075
+267,Kenya,General government final consumption expenditure (% of GDP),2005,17.380211552384818
+268,Lesotho,General government final consumption expenditure (% of GDP),2005,35.82675161838224
+269,Madagascar,General government final consumption expenditure (% of GDP),2005,9.19762504698333
+270,Malawi,General government final consumption expenditure (% of GDP),2005,10.787801754537961
+271,Mali,General government final consumption expenditure (% of GDP),2005,13.846429400844857
+272,Mauritius,General government final consumption expenditure (% of GDP),2005,14.52265894337192
+273,Namibia,General government final consumption expenditure (% of GDP),2005,19.66345014724049
+274,Niger,General government final consumption expenditure (% of GDP),2005,15.597683870608542
+275,Nigeria,General government final consumption expenditure (% of GDP),2005,4.544546969757195
+276,Norway,General government final consumption expenditure (% of GDP),2005,19.44208680760226
+277,Poland,General government final consumption expenditure (% of GDP),2005,18.29700707140463
+278,Rwanda,General government final consumption expenditure (% of GDP),2005,18.175239510665563
+279,Senegal,General government final consumption expenditure (% of GDP),2005,13.296059035924374
+280,Seychelles,General government final consumption expenditure (% of GDP),2005,34.59244137947188
+281,South Africa,General government final consumption expenditure (% of GDP),2005,19.47818946911217
+282,Sweden,General government final consumption expenditure (% of GDP),2005,25.054151550181462
+283,Tanzania,General government final consumption expenditure (% of GDP),2005,11.918043237298704
+284,Togo,General government final consumption expenditure (% of GDP),2005,13.001660111843488
+285,Uganda,General government final consumption expenditure (% of GDP),2005,14.49276339303589
+286,United Arab Emirates,General government final consumption expenditure (% of GDP),2005,7.8725931559940125
+287,Zambia,General government final consumption expenditure (% of GDP),2005,12.184391117454842
+288,Australia,General government final consumption expenditure (% of GDP),2006,17.479802896339933
+289,China,General government final consumption expenditure (% of GDP),2006,13.949006391321541
+290,India,General government final consumption expenditure (% of GDP),2006,9.80247046778886
+291,Japan,General government final consumption expenditure (% of GDP),2006,17.95290272143717
+292,"Korea, Rep.",General government final consumption expenditure (% of GDP),2006,13.819208562331777
+293,Mexico,General government final consumption expenditure (% of GDP),2006,10.3444234976116
+294,Switzerland,General government final consumption expenditure (% of GDP),2006,11.31362013663058
+295,Turkey,General government final consumption expenditure (% of GDP),2006,13.014316255823896
+296,United Kingdom,General government final consumption expenditure (% of GDP),2006,19.816085314284205
+297,United States,General government final consumption expenditure (% of GDP),2006,15.008319364660776
+298,Angola,General government final consumption expenditure (% of GDP),2006,15.341722406159777
+299,Botswana,General government final consumption expenditure (% of GDP),2006,17.03785231440234
+300,Burkina Faso,General government final consumption expenditure (% of GDP),2006,21.67730743292897
+301,Burundi,General government final consumption expenditure (% of GDP),2006,15.2
+302,Cameroon,General government final consumption expenditure (% of GDP),2006,10.294518818881572
+303,Canada,General government final consumption expenditure (% of GDP),2006,19.305096410886694
+304,Chile,General government final consumption expenditure (% of GDP),2006,9.925310477604567
+305,Colombia,General government final consumption expenditure (% of GDP),2006,13.91754134988093
+306,"Congo, Rep.",General government final consumption expenditure (% of GDP),2006,13.929154504526789
+307,Cote d'Ivoire,General government final consumption expenditure (% of GDP),2006,13.591614786050743
+308,Czech Republic,General government final consumption expenditure (% of GDP),2006,20.243748715411474
+309,Denmark,General government final consumption expenditure (% of GDP),2006,24.203538388755337
+310,Ethiopia,General government final consumption expenditure (% of GDP),2006,9.013788576030427
+311,Ghana,General government final consumption expenditure (% of GDP),2006,8.870722203844938
+312,Hungary,General government final consumption expenditure (% of GDP),2006,22.017400756587175
+313,Iceland,General government final consumption expenditure (% of GDP),2006,23.67145313003382
+314,Israel,General government final consumption expenditure (% of GDP),2006,23.923610167259284
+315,Kenya,General government final consumption expenditure (% of GDP),2006,14.346998804000554
+316,Lesotho,General government final consumption expenditure (% of GDP),2006,35.24404094901802
+317,Madagascar,General government final consumption expenditure (% of GDP),2006,8.952795932970336
+318,Malawi,General government final consumption expenditure (% of GDP),2006,11.394115948613107
+319,Mali,General government final consumption expenditure (% of GDP),2006,13.262239951527746
+320,Mauritius,General government final consumption expenditure (% of GDP),2006,14.123928747700454
+321,Namibia,General government final consumption expenditure (% of GDP),2006,19.83978968360302
+322,Niger,General government final consumption expenditure (% of GDP),2006,15.008406587240236
+323,Nigeria,General government final consumption expenditure (% of GDP),2006,5.125841681876624
+324,Norway,General government final consumption expenditure (% of GDP),2006,18.639301146902724
+325,Poland,General government final consumption expenditure (% of GDP),2006,18.477431801866476
+326,Rwanda,General government final consumption expenditure (% of GDP),2006,17.150598649492142
+327,Senegal,General government final consumption expenditure (% of GDP),2006,13.652999376776767
+328,Seychelles,General government final consumption expenditure (% of GDP),2006,39.45062742101672
+329,South Africa,General government final consumption expenditure (% of GDP),2006,18.153528324453628
+330,Sweden,General government final consumption expenditure (% of GDP),2006,24.797459760457606
+331,Tanzania,General government final consumption expenditure (% of GDP),2006,11.889825447619165
+332,Togo,General government final consumption expenditure (% of GDP),2006,14.99835575583137
+333,Uganda,General government final consumption expenditure (% of GDP),2006,14.102311795703104
+334,United Arab Emirates,General government final consumption expenditure (% of GDP),2006,6.91782205286281
+335,Zambia,General government final consumption expenditure (% of GDP),2006,14.523945779887029
+336,Australia,General government final consumption expenditure (% of GDP),2007,17.343936506125107
+337,China,General government final consumption expenditure (% of GDP),2007,13.490259420686929
+338,India,General government final consumption expenditure (% of GDP),2007,9.862115728446552
+339,Japan,General government final consumption expenditure (% of GDP),2007,17.945611732590642
+340,"Korea, Rep.",General government final consumption expenditure (% of GDP),2007,13.928599431511559
+341,Mexico,General government final consumption expenditure (% of GDP),2007,10.405381142981494
+342,Switzerland,General government final consumption expenditure (% of GDP),2007,10.909267386232658
+343,Turkey,General government final consumption expenditure (% of GDP),2007,13.499999240567456
+344,United Kingdom,General government final consumption expenditure (% of GDP),2007,19.644268596179817
+345,United States,General government final consumption expenditure (% of GDP),2007,15.214797302214134
+346,Angola,General government final consumption expenditure (% of GDP),2007,15.536934703730374
+347,Botswana,General government final consumption expenditure (% of GDP),2007,17.594780548144715
+348,Burkina Faso,General government final consumption expenditure (% of GDP),2007,23.852383546650362
+349,Burundi,General government final consumption expenditure (% of GDP),2007,19.000000681555935
+350,Cameroon,General government final consumption expenditure (% of GDP),2007,10.350119867386006
+351,Canada,General government final consumption expenditure (% of GDP),2007,19.301037411377717
+352,Chile,General government final consumption expenditure (% of GDP),2007,10.252719682734284
+353,Colombia,General government final consumption expenditure (% of GDP),2007,13.76173135393767
+354,"Congo, Rep.",General government final consumption expenditure (% of GDP),2007,16.97116253368758
+355,Cote d'Ivoire,General government final consumption expenditure (% of GDP),2007,13.338575710903012
+356,Czech Republic,General government final consumption expenditure (% of GDP),2007,19.42216864746569
+357,Denmark,General government final consumption expenditure (% of GDP),2007,24.33796324339598
+358,Ethiopia,General government final consumption expenditure (% of GDP),2007,9.013788576030427
+359,Ghana,General government final consumption expenditure (% of GDP),2007,8.524940361135446
+360,Hungary,General government final consumption expenditure (% of GDP),2007,20.81108208671686
+361,Iceland,General government final consumption expenditure (% of GDP),2007,23.074918599024702
+362,Israel,General government final consumption expenditure (% of GDP),2007,23.003928975880328
+363,Kenya,General government final consumption expenditure (% of GDP),2007,14.629611467037659
+364,Lesotho,General government final consumption expenditure (% of GDP),2007,35.82675161838224
+365,Madagascar,General government final consumption expenditure (% of GDP),2007,19.029038578461545
+366,Malawi,General government final consumption expenditure (% of GDP),2007,10.993956483483256
+367,Mali,General government final consumption expenditure (% of GDP),2007,13.94575919175422
+368,Mauritius,General government final consumption expenditure (% of GDP),2007,12.435592509727245
+369,Namibia,General government final consumption expenditure (% of GDP),2007,23.861895773671367
+370,Niger,General government final consumption expenditure (% of GDP),2007,15.649523413143724
+371,Nigeria,General government final consumption expenditure (% of GDP),2007,9.44834003607713
+372,Norway,General government final consumption expenditure (% of GDP),2007,18.728706354808775
+373,Poland,General government final consumption expenditure (% of GDP),2007,18.109304019434074
+374,Rwanda,General government final consumption expenditure (% of GDP),2007,15.261422137560507
+375,Senegal,General government final consumption expenditure (% of GDP),2007,13.001446500440577
+376,Seychelles,General government final consumption expenditure (% of GDP),2007,35.2873231302339
+377,South Africa,General government final consumption expenditure (% of GDP),2007,17.814014871756463
+378,Sweden,General government final consumption expenditure (% of GDP),2007,24.308854371487193
+379,Tanzania,General government final consumption expenditure (% of GDP),2007,13.109264542999618
+380,Togo,General government final consumption expenditure (% of GDP),2007,13.627261427979562
+381,Uganda,General government final consumption expenditure (% of GDP),2007,12.89303481051661
+382,United Arab Emirates,General government final consumption expenditure (% of GDP),2007,6.732997872052328
+383,Zambia,General government final consumption expenditure (% of GDP),2007,14.780585349308078
+384,Australia,General government final consumption expenditure (% of GDP),2008,17.242653398034342
+385,China,General government final consumption expenditure (% of GDP),2008,13.196160502511242
+386,India,General government final consumption expenditure (% of GDP),2008,10.538481156353296
+387,Japan,General government final consumption expenditure (% of GDP),2008,18.35944259026567
+388,"Korea, Rep.",General government final consumption expenditure (% of GDP),2008,14.644847650350087
+389,Mexico,General government final consumption expenditure (% of GDP),2008,10.729518881368936
+390,Switzerland,General government final consumption expenditure (% of GDP),2008,11.043442593736833
+391,Turkey,General government final consumption expenditure (% of GDP),2008,13.705272949433292
+392,United Kingdom,General government final consumption expenditure (% of GDP),2008,20.446925055238246
+393,United States,General government final consumption expenditure (% of GDP),2008,15.988710181182398
+394,Angola,General government final consumption expenditure (% of GDP),2008,16.814611461345145
+395,Botswana,General government final consumption expenditure (% of GDP),2008,20.351259172577382
+396,Burkina Faso,General government final consumption expenditure (% of GDP),2008,21.364409024946056
+397,Burundi,General government final consumption expenditure (% of GDP),2008,20.200001151145987
+398,Cameroon,General government final consumption expenditure (% of GDP),2008,11.105159287156573
+399,Canada,General government final consumption expenditure (% of GDP),2008,19.768555462051165
+400,Chile,General government final consumption expenditure (% of GDP),2008,11.071389431829068
+401,Colombia,General government final consumption expenditure (% of GDP),2008,13.16982919601851
+402,"Congo, Rep.",General government final consumption expenditure (% of GDP),2008,11.947962246322353
+403,Cote d'Ivoire,General government final consumption expenditure (% of GDP),2008,12.669763385828222
+404,Czech Republic,General government final consumption expenditure (% of GDP),2008,19.40492783882775
+405,Denmark,General government final consumption expenditure (% of GDP),2008,25.100890055831254
+406,Ethiopia,General government final consumption expenditure (% of GDP),2008,8.302188717520892
+407,Ghana,General government final consumption expenditure (% of GDP),2008,8.731659767627376
+408,Hungary,General government final consumption expenditure (% of GDP),2008,21.399617486850765
+409,Iceland,General government final consumption expenditure (% of GDP),2008,23.673252689726297
+410,Israel,General government final consumption expenditure (% of GDP),2008,22.979215013443046
+411,Kenya,General government final consumption expenditure (% of GDP),2008,15.67397942375893
+412,Lesotho,General government final consumption expenditure (% of GDP),2008,35.82675161838224
+413,Madagascar,General government final consumption expenditure (% of GDP),2008,14.076977108566812
+414,Malawi,General government final consumption expenditure (% of GDP),2008,13.228003271264893
+415,Mali,General government final consumption expenditure (% of GDP),2008,15.567288908431753
+416,Mauritius,General government final consumption expenditure (% of GDP),2008,12.464556347492032
+417,Namibia,General government final consumption expenditure (% of GDP),2008,21.796362103334438
+418,Niger,General government final consumption expenditure (% of GDP),2008,16.0931287955933
+419,Nigeria,General government final consumption expenditure (% of GDP),2008,9.428957363413575
+420,Norway,General government final consumption expenditure (% of GDP),2008,18.5066491759011
+421,Poland,General government final consumption expenditure (% of GDP),2008,18.60312316057692
+422,Rwanda,General government final consumption expenditure (% of GDP),2008,13.255699880025979
+423,Senegal,General government final consumption expenditure (% of GDP),2008,13.459063004307414
+424,Seychelles,General government final consumption expenditure (% of GDP),2008,27.386028205969172
+425,South Africa,General government final consumption expenditure (% of GDP),2008,18.657925095280287
+426,Sweden,General government final consumption expenditure (% of GDP),2008,24.74711838742143
+427,Tanzania,General government final consumption expenditure (% of GDP),2008,11.317596218406683
+428,Togo,General government final consumption expenditure (% of GDP),2008,12.453857362583985
+429,Uganda,General government final consumption expenditure (% of GDP),2008,11.210886813147846
+430,United Arab Emirates,General government final consumption expenditure (% of GDP),2008,7.296835620051989
+431,Zambia,General government final consumption expenditure (% of GDP),2008,9.379638515921778
+432,Australia,General government final consumption expenditure (% of GDP),2009,17.591547004511384
+433,China,General government final consumption expenditure (% of GDP),2009,13.218092579286504
+434,India,General government final consumption expenditure (% of GDP),2009,11.459667419744983
+435,Japan,General government final consumption expenditure (% of GDP),2009,19.63464834596865
+436,"Korea, Rep.",General government final consumption expenditure (% of GDP),2009,15.16929901837949
+437,Mexico,General government final consumption expenditure (% of GDP),2009,11.916963845732456
+438,Switzerland,General government final consumption expenditure (% of GDP),2009,11.776339948371811
+439,Turkey,General government final consumption expenditure (% of GDP),2009,15.770383766247239
+440,United Kingdom,General government final consumption expenditure (% of GDP),2009,22.029151640353252
+441,United States,General government final consumption expenditure (% of GDP),2009,16.822024130048177
+442,Angola,General government final consumption expenditure (% of GDP),2009,19.898590340774554
+443,Botswana,General government final consumption expenditure (% of GDP),2009,21.089543447666262
+444,Burkina Faso,General government final consumption expenditure (% of GDP),2009,21.63300402423295
+445,Burundi,General government final consumption expenditure (% of GDP),2009,19.700001232027795
+446,Cameroon,General government final consumption expenditure (% of GDP),2009,11.60296510270642
+447,Canada,General government final consumption expenditure (% of GDP),2009,22.020205886950393
+448,Chile,General government final consumption expenditure (% of GDP),2009,12.416884555020577
+449,Colombia,General government final consumption expenditure (% of GDP),2009,13.798426913620101
+450,"Congo, Rep.",General government final consumption expenditure (% of GDP),2009,12.231958192796059
+451,Cote d'Ivoire,General government final consumption expenditure (% of GDP),2009,12.63534697082043
+452,Czech Republic,General government final consumption expenditure (% of GDP),2009,20.997789288595666
+453,Denmark,General government final consumption expenditure (% of GDP),2009,27.93499972291782
+454,Ethiopia,General government final consumption expenditure (% of GDP),2009,8.955473678334801
+455,Ghana,General government final consumption expenditure (% of GDP),2009,7.574243955722553
+456,Hungary,General government final consumption expenditure (% of GDP),2009,22.071323349105594
+457,Iceland,General government final consumption expenditure (% of GDP),2009,24.97305631332165
+458,Israel,General government final consumption expenditure (% of GDP),2009,22.86809742563091
+459,Kenya,General government final consumption expenditure (% of GDP),2009,15.214471688256545
+460,Lesotho,General government final consumption expenditure (% of GDP),2009,40.44422222164247
+461,Madagascar,General government final consumption expenditure (% of GDP),2009,12.508633973810234
+462,Malawi,General government final consumption expenditure (% of GDP),2009,15.946306921776335
+463,Mali,General government final consumption expenditure (% of GDP),2009,14.56991071359852
+464,Mauritius,General government final consumption expenditure (% of GDP),2009,13.922250099398129
+465,Namibia,General government final consumption expenditure (% of GDP),2009,23.85852326381852
+466,Niger,General government final consumption expenditure (% of GDP),2009,17.372688456085545
+467,Nigeria,General government final consumption expenditure (% of GDP),2009,8.649947943554432
+468,Norway,General government final consumption expenditure (% of GDP),2009,21.598439518365595
+469,Poland,General government final consumption expenditure (% of GDP),2009,18.70787810594312
+470,Rwanda,General government final consumption expenditure (% of GDP),2009,13.623471579523065
+471,Senegal,General government final consumption expenditure (% of GDP),2009,13.296059035924374
+472,Seychelles,General government final consumption expenditure (% of GDP),2009,28.856325327321596
+473,South Africa,General government final consumption expenditure (% of GDP),2009,19.864480154342047
+474,Sweden,General government final consumption expenditure (% of GDP),2009,26.084046462201194
+475,Tanzania,General government final consumption expenditure (% of GDP),2009,12.333056744436307
+476,Togo,General government final consumption expenditure (% of GDP),2009,11.451615643422688
+477,Uganda,General government final consumption expenditure (% of GDP),2009,9.22514084936743
+478,United Arab Emirates,General government final consumption expenditure (% of GDP),2009,10.234142917856396
+479,Zambia,General government final consumption expenditure (% of GDP),2009,10.245500186350382
+480,Australia,General government final consumption expenditure (% of GDP),2010,17.999002467701246
+481,China,General government final consumption expenditure (% of GDP),2010,12.845915746362765
+482,India,General government final consumption expenditure (% of GDP),2010,11.007607867464305
+483,Japan,General government final consumption expenditure (% of GDP),2010,19.491603842800064
+484,"Korea, Rep.",General government final consumption expenditure (% of GDP),2010,14.471456752031916
+485,Mexico,General government final consumption expenditure (% of GDP),2010,11.771363308628574
+486,Switzerland,General government final consumption expenditure (% of GDP),2010,11.602089841023206
+487,Turkey,General government final consumption expenditure (% of GDP),2010,14.97265828303463
+488,United Kingdom,General government final consumption expenditure (% of GDP),2010,21.658539995892447
+489,United States,General government final consumption expenditure (% of GDP),2010,16.74315749623364
+490,Angola,General government final consumption expenditure (% of GDP),2010,17.04234391773199
+491,Botswana,General government final consumption expenditure (% of GDP),2010,19.75650556683826
+492,Burkina Faso,General government final consumption expenditure (% of GDP),2010,20.640300064911838
+493,Burundi,General government final consumption expenditure (% of GDP),2010,21.900000279882786
+494,Cameroon,General government final consumption expenditure (% of GDP),2010,11.389641618382829
+495,Canada,General government final consumption expenditure (% of GDP),2010,21.52604096789002
+496,Chile,General government final consumption expenditure (% of GDP),2010,12.108740853159736
+497,Colombia,General government final consumption expenditure (% of GDP),2010,13.782344741591467
+498,"Congo, Rep.",General government final consumption expenditure (% of GDP),2010,10.440159758489125
+499,Cote d'Ivoire,General government final consumption expenditure (% of GDP),2010,12.177588088592337
+500,Czech Republic,General government final consumption expenditure (% of GDP),2010,20.82827755659105
+501,Denmark,General government final consumption expenditure (% of GDP),2010,27.365847979969
+502,Ethiopia,General government final consumption expenditure (% of GDP),2010,9.249591843766643
+503,Ghana,General government final consumption expenditure (% of GDP),2010,7.06949942103097
+504,Hungary,General government final consumption expenditure (% of GDP),2010,21.57007944038762
+505,Iceland,General government final consumption expenditure (% of GDP),2010,24.683749800793052
+506,Israel,General government final consumption expenditure (% of GDP),2010,22.716379793773836
+507,Kenya,General government final consumption expenditure (% of GDP),2010,14.169029149648113
+508,Lesotho,General government final consumption expenditure (% of GDP),2010,37.37067461986348
+509,Madagascar,General government final consumption expenditure (% of GDP),2010,13.116074568966148
+510,Malawi,General government final consumption expenditure (% of GDP),2010,14.23141046671191
+511,Mali,General government final consumption expenditure (% of GDP),2010,15.687645480501855
+512,Mauritius,General government final consumption expenditure (% of GDP),2010,13.818487646002525
+513,Namibia,General government final consumption expenditure (% of GDP),2010,25.554096696724805
+514,Niger,General government final consumption expenditure (% of GDP),2010,14.752625318510637
+515,Nigeria,General government final consumption expenditure (% of GDP),2010,8.848100207627823
+516,Norway,General government final consumption expenditure (% of GDP),2010,21.340207657480537
+517,Poland,General government final consumption expenditure (% of GDP),2010,19.119655600436726
+518,Rwanda,General government final consumption expenditure (% of GDP),2010,14.053527812206484
+519,Senegal,General government final consumption expenditure (% of GDP),2010,13.652999376776767
+520,Seychelles,General government final consumption expenditure (% of GDP),2010,27.287483981204613
+521,South Africa,General government final consumption expenditure (% of GDP),2010,20.229637906336677
+522,Sweden,General government final consumption expenditure (% of GDP),2010,25.05682625074473
+523,Tanzania,General government final consumption expenditure (% of GDP),2010,10.362203900986525
+524,Togo,General government final consumption expenditure (% of GDP),2010,13.362834570310888
+525,Uganda,General government final consumption expenditure (% of GDP),2010,9.594207004428117
+526,United Arab Emirates,General government final consumption expenditure (% of GDP),2010,10.031071772313211
+527,Zambia,General government final consumption expenditure (% of GDP),2010,9.379638515921778
+528,Australia,General government final consumption expenditure (% of GDP),2011,17.810749797758334
+529,China,General government final consumption expenditure (% of GDP),2011,13.216801860863281
+530,India,General government final consumption expenditure (% of GDP),2011,11.084457212530067
+531,Japan,General government final consumption expenditure (% of GDP),2011,20.18778673954561
+532,"Korea, Rep.",General government final consumption expenditure (% of GDP),2011,14.585726066478022
+533,Mexico,General government final consumption expenditure (% of GDP),2011,11.777083105444804
+534,Switzerland,General government final consumption expenditure (% of GDP),2011,11.681363866103506
+535,Turkey,General government final consumption expenditure (% of GDP),2011,13.702278583286171
+536,United Kingdom,General government final consumption expenditure (% of GDP),2011,20.96917430219836
+537,United States,General government final consumption expenditure (% of GDP),2011,16.16046899284689
+538,Angola,General government final consumption expenditure (% of GDP),2011,18.235860530028077
+539,Botswana,General government final consumption expenditure (% of GDP),2011,18.486708447729686
+540,Burkina Faso,General government final consumption expenditure (% of GDP),2011,20.565331613284688
+541,Burundi,General government final consumption expenditure (% of GDP),2011,22.900000496535952
+542,Cameroon,General government final consumption expenditure (% of GDP),2011,12.111140399587116
+543,Canada,General government final consumption expenditure (% of GDP),2011,21.195340811628988
+544,Chile,General government final consumption expenditure (% of GDP),2011,11.913487592315295
+545,Colombia,General government final consumption expenditure (% of GDP),2011,13.368812646562917
+546,"Congo, Rep.",General government final consumption expenditure (% of GDP),2011,9.986844337886765
+547,Cote d'Ivoire,General government final consumption expenditure (% of GDP),2011,11.246138290982648
+548,Czech Republic,General government final consumption expenditure (% of GDP),2011,20.15890900662038
+549,Denmark,General government final consumption expenditure (% of GDP),2011,26.56466595655408
+550,Ethiopia,General government final consumption expenditure (% of GDP),2011,10.318246067253654
+551,Ghana,General government final consumption expenditure (% of GDP),2011,13.788598121553811
+552,Hungary,General government final consumption expenditure (% of GDP),2011,20.718851426957293
+553,Iceland,General government final consumption expenditure (% of GDP),2011,24.65910803174871
+554,Israel,General government final consumption expenditure (% of GDP),2011,22.462317959743274
+555,Kenya,General government final consumption expenditure (% of GDP),2011,14.011634179818234
+556,Lesotho,General government final consumption expenditure (% of GDP),2011,34.849600303394176
+557,Madagascar,General government final consumption expenditure (% of GDP),2011,14.117113685277365
+558,Malawi,General government final consumption expenditure (% of GDP),2011,13.404089109650444
+559,Mali,General government final consumption expenditure (% of GDP),2011,18.79316366992498
+560,Mauritius,General government final consumption expenditure (% of GDP),2011,13.463603178011596
+561,Namibia,General government final consumption expenditure (% of GDP),2011,23.18895313329259
+562,Niger,General government final consumption expenditure (% of GDP),2011,15.563984383705593
+563,Nigeria,General government final consumption expenditure (% of GDP),2011,8.572152254789659
+564,Norway,General government final consumption expenditure (% of GDP),2011,20.91880818553341
+565,Poland,General government final consumption expenditure (% of GDP),2011,18.051421218975456
+566,Rwanda,General government final consumption expenditure (% of GDP),2011,12.777049043927363
+567,Senegal,General government final consumption expenditure (% of GDP),2011,13.459063004307414
+568,Seychelles,General government final consumption expenditure (% of GDP),2011,27.432555319793877
+569,South Africa,General government final consumption expenditure (% of GDP),2011,19.86224027470826
+570,Sweden,General government final consumption expenditure (% of GDP),2011,24.99598025133781
+571,Tanzania,General government final consumption expenditure (% of GDP),2011,9.696879402065347
+572,Togo,General government final consumption expenditure (% of GDP),2011,16.900790238978658
+573,Uganda,General government final consumption expenditure (% of GDP),2011,12.7874804308758
+574,United Arab Emirates,General government final consumption expenditure (% of GDP),2011,9.95331479741773
+575,Zambia,General government final consumption expenditure (% of GDP),2011,10.245500186350382
+576,Australia,General government final consumption expenditure (% of GDP),2012,17.986232358625582
+577,China,General government final consumption expenditure (% of GDP),2012,13.475446012570092
+578,India,General government final consumption expenditure (% of GDP),2012,10.683856231812685
+579,Japan,General government final consumption expenditure (% of GDP),2012,20.252437988577597
+580,"Korea, Rep.",General government final consumption expenditure (% of GDP),2012,14.833439047485122
+581,Mexico,General government final consumption expenditure (% of GDP),2012,11.946733981518951
+582,Switzerland,General government final consumption expenditure (% of GDP),2012,11.858860274514937
+583,Turkey,General government final consumption expenditure (% of GDP),2012,14.232380181646253
+584,United Kingdom,General government final consumption expenditure (% of GDP),2012,20.777471046608667
+585,United States,General government final consumption expenditure (% of GDP),2012,15.533604114560928
+586,Angola,General government final consumption expenditure (% of GDP),2012,17.84263437025915
+587,Botswana,General government final consumption expenditure (% of GDP),2012,19.291427287027243
+588,Burkina Faso,General government final consumption expenditure (% of GDP),2012,20.84418457216093
+589,Burundi,General government final consumption expenditure (% of GDP),2012,23.299999108684087
+590,Cameroon,General government final consumption expenditure (% of GDP),2012,12.218166659532754
+591,Canada,General government final consumption expenditure (% of GDP),2012,21.108641173398404
+592,Chile,General government final consumption expenditure (% of GDP),2012,11.924859753717138
+593,Colombia,General government final consumption expenditure (% of GDP),2012,13.488091919009213
+594,"Congo, Rep.",General government final consumption expenditure (% of GDP),2012,14.6499604608594
+595,Cote d'Ivoire,General government final consumption expenditure (% of GDP),2012,12.321341970797343
+596,Czech Republic,General government final consumption expenditure (% of GDP),2012,19.80530612486182
+597,Denmark,General government final consumption expenditure (% of GDP),2012,26.471455532105136
+598,Ethiopia,General government final consumption expenditure (% of GDP),2012,8.302188717520892
+599,Ghana,General government final consumption expenditure (% of GDP),2012,11.76434631194705
+600,Hungary,General government final consumption expenditure (% of GDP),2012,20.058849976410787
+601,Iceland,General government final consumption expenditure (% of GDP),2012,24.43577088100567
+602,Israel,General government final consumption expenditure (% of GDP),2012,22.769269975027555
+603,Kenya,General government final consumption expenditure (% of GDP),2012,13.857934761419171
+604,Lesotho,General government final consumption expenditure (% of GDP),2012,37.313090615716426
+605,Madagascar,General government final consumption expenditure (% of GDP),2012,15.007692993858793
+606,Malawi,General government final consumption expenditure (% of GDP),2012,14.38490269645983
+607,Mali,General government final consumption expenditure (% of GDP),2012,15.484434131566848
+608,Mauritius,General government final consumption expenditure (% of GDP),2012,13.35770753242605
+609,Namibia,General government final consumption expenditure (% of GDP),2012,24.97057957540931
+610,Niger,General government final consumption expenditure (% of GDP),2012,14.248418054116982
+611,Nigeria,General government final consumption expenditure (% of GDP),2012,8.228177842982069
+612,Norway,General government final consumption expenditure (% of GDP),2012,20.742004275901948
+613,Poland,General government final consumption expenditure (% of GDP),2012,17.92933089893674
+614,Rwanda,General government final consumption expenditure (% of GDP),2012,13.69265509734294
+615,Senegal,General government final consumption expenditure (% of GDP),2012,13.296059035924374
+616,Seychelles,General government final consumption expenditure (% of GDP),2012,27.48052606983496
+617,South Africa,General government final consumption expenditure (% of GDP),2012,20.259928380143183
+618,Sweden,General government final consumption expenditure (% of GDP),2012,25.822931789862075
+619,Tanzania,General government final consumption expenditure (% of GDP),2012,10.427013495689724
+620,Togo,General government final consumption expenditure (% of GDP),2012,15.302127590716152
+621,Uganda,General government final consumption expenditure (% of GDP),2012,8.215254225508987
+622,United Arab Emirates,General government final consumption expenditure (% of GDP),2012,9.73043954861727
+623,Zambia,General government final consumption expenditure (% of GDP),2012,11.897298388479015
+624,Australia,General government final consumption expenditure (% of GDP),2013,17.84037955955418
+625,China,General government final consumption expenditure (% of GDP),2013,13.588584334660228
+626,India,General government final consumption expenditure (% of GDP),2013,10.295160141959789
+627,Japan,General government final consumption expenditure (% of GDP),2013,20.165763204734095
+628,"Korea, Rep.",General government final consumption expenditure (% of GDP),2013,15.003532139107936
+629,Mexico,General government final consumption expenditure (% of GDP),2013,12.191387292476994
+630,Switzerland,General government final consumption expenditure (% of GDP),2013,11.9317514576677
+631,Turkey,General government final consumption expenditure (% of GDP),2013,14.124617757267083
+632,United Kingdom,General government final consumption expenditure (% of GDP),2013,20.124021594638712
+633,United States,General government final consumption expenditure (% of GDP),2013,15.085068512313516
+634,Angola,General government final consumption expenditure (% of GDP),2013,21.621948736042498
+635,Botswana,General government final consumption expenditure (% of GDP),2013,18.54830755171284
+636,Burkina Faso,General government final consumption expenditure (% of GDP),2013,21.31994823107887
+637,Burundi,General government final consumption expenditure (% of GDP),2013,24.699999999999996
+638,Cameroon,General government final consumption expenditure (% of GDP),2013,12.326578346665599
+639,Canada,General government final consumption expenditure (% of GDP),2013,20.75580280069058
+640,Chile,General government final consumption expenditure (% of GDP),2013,12.300820315129833
+641,Colombia,General government final consumption expenditure (% of GDP),2013,14.106534869319223
+642,"Congo, Rep.",General government final consumption expenditure (% of GDP),2013,13.550848156639184
+643,Cote d'Ivoire,General government final consumption expenditure (% of GDP),2013,12.262660578868283
+644,Czech Republic,General government final consumption expenditure (% of GDP),2013,20.155641795473443
+645,Denmark,General government final consumption expenditure (% of GDP),2013,26.007487634327102
+646,Ethiopia,General government final consumption expenditure (% of GDP),2013,8.955473678334801
+647,Ghana,General government final consumption expenditure (% of GDP),2013,10.927903559176109
+648,Hungary,General government final consumption expenditure (% of GDP),2013,19.76310126992026
+649,Iceland,General government final consumption expenditure (% of GDP),2013,24.100500331562635
+650,Israel,General government final consumption expenditure (% of GDP),2013,22.7723860461935
+651,Kenya,General government final consumption expenditure (% of GDP),2013,14.139584286072552
+652,Lesotho,General government final consumption expenditure (% of GDP),2013,34.57777944661617
+653,Madagascar,General government final consumption expenditure (% of GDP),2013,15.64666966960755
+654,Malawi,General government final consumption expenditure (% of GDP),2013,16.36725444033413
+655,Mali,General government final consumption expenditure (% of GDP),2013,16.678301803960213
+656,Mauritius,General government final consumption expenditure (% of GDP),2013,14.604843755454528
+657,Namibia,General government final consumption expenditure (% of GDP),2013,25.988667487921408
+658,Niger,General government final consumption expenditure (% of GDP),2013,14.167845773977044
+659,Nigeria,General government final consumption expenditure (% of GDP),2013,7.15521853043965
+660,Norway,General government final consumption expenditure (% of GDP),2013,21.109596694998476
+661,Poland,General government final consumption expenditure (% of GDP),2013,18.13084112149533
+662,Rwanda,General government final consumption expenditure (% of GDP),2013,13.54194924290028
+663,Senegal,General government final consumption expenditure (% of GDP),2013,13.652999376776767
+664,Seychelles,General government final consumption expenditure (% of GDP),2013,17.960067211380093
+665,South Africa,General government final consumption expenditure (% of GDP),2013,20.574980342866546
+666,Sweden,General government final consumption expenditure (% of GDP),2013,26.295336991645122
+667,Tanzania,General government final consumption expenditure (% of GDP),2013,10.045237262130538
+668,Togo,General government final consumption expenditure (% of GDP),2013,15.079523477556894
+669,Uganda,General government final consumption expenditure (% of GDP),2013,7.993837977190167
+670,United Arab Emirates,General government final consumption expenditure (% of GDP),2013,10.984427888299262
+671,Zambia,General government final consumption expenditure (% of GDP),2013,12.184391117454842
+672,Australia,General government final consumption expenditure (% of GDP),2014,17.697384471983636
+673,China,General government final consumption expenditure (% of GDP),2014,13.375250422358015
+674,India,General government final consumption expenditure (% of GDP),2014,10.440856808121307
+675,Japan,General government final consumption expenditure (% of GDP),2014,20.15303302742296
+676,"Korea, Rep.",General government final consumption expenditure (% of GDP),2014,15.12195210578601
+677,Mexico,General government final consumption expenditure (% of GDP),2014,12.202264839618476
+678,Switzerland,General government final consumption expenditure (% of GDP),2014,11.970932650780801
+679,Turkey,General government final consumption expenditure (% of GDP),2014,14.091517124691624
+680,United Kingdom,General government final consumption expenditure (% of GDP),2014,19.829545576606208
+681,United States,General government final consumption expenditure (% of GDP),2014,14.641337237825839
+682,Angola,General government final consumption expenditure (% of GDP),2014,17.975659989392522
+683,Botswana,General government final consumption expenditure (% of GDP),2014,19.934209940802287
+684,Burkina Faso,General government final consumption expenditure (% of GDP),2014,22.55383059719248
+685,Burundi,General government final consumption expenditure (% of GDP),2014,25.90000618877089
+686,Cameroon,General government final consumption expenditure (% of GDP),2014,12.153891818847049
+687,Canada,General government final consumption expenditure (% of GDP),2014,20.314594659779516
+688,Chile,General government final consumption expenditure (% of GDP),2014,12.700983522605677
+689,Colombia,General government final consumption expenditure (% of GDP),2014,14.24375051612066
+690,"Congo, Rep.",General government final consumption expenditure (% of GDP),2014,13.836503917947232
+691,Cote d'Ivoire,General government final consumption expenditure (% of GDP),2014,12.331496649991985
+692,Czech Republic,General government final consumption expenditure (% of GDP),2014,19.68466700619803
+693,Denmark,General government final consumption expenditure (% of GDP),2014,25.785652044161324
+694,Ethiopia,General government final consumption expenditure (% of GDP),2014,9.249591843766643
+695,Ghana,General government final consumption expenditure (% of GDP),2014,10.432039558335205
+696,Hungary,General government final consumption expenditure (% of GDP),2014,20.062067262800802
+697,Iceland,General government final consumption expenditure (% of GDP),2014,23.935642665844117
+698,Israel,General government final consumption expenditure (% of GDP),2014,22.72364422291918
+699,Kenya,General government final consumption expenditure (% of GDP),2014,13.890408461531342
+700,Lesotho,General government final consumption expenditure (% of GDP),2014,36.473412886087296
+701,Madagascar,General government final consumption expenditure (% of GDP),2014,15.800002461256133
+702,Malawi,General government final consumption expenditure (% of GDP),2014,12.537790313722768
+703,Mali,General government final consumption expenditure (% of GDP),2014,16.25652730529841
+704,Mauritius,General government final consumption expenditure (% of GDP),2014,14.822655600389734
+705,Namibia,General government final consumption expenditure (% of GDP),2014,26.24225555537569
+706,Niger,General government final consumption expenditure (% of GDP),2014,15.421306993380227
+707,Nigeria,General government final consumption expenditure (% of GDP),2014,6.4644861205696
+708,Norway,General government final consumption expenditure (% of GDP),2014,21.86773874543351
+709,Poland,General government final consumption expenditure (% of GDP),2014,18.178653011165814
+710,Rwanda,General government final consumption expenditure (% of GDP),2014,15.070941318003268
+711,Senegal,General government final consumption expenditure (% of GDP),2014,14.734526854219945
+712,Seychelles,General government final consumption expenditure (% of GDP),2014,19.75454991355699
+713,South Africa,General government final consumption expenditure (% of GDP),2014,20.795677325641133
+714,Sweden,General government final consumption expenditure (% of GDP),2014,26.16141408894223
+715,Tanzania,General government final consumption expenditure (% of GDP),2014,9.867791338882107
+716,Togo,General government final consumption expenditure (% of GDP),2014,16.54294306205629
+717,Uganda,General government final consumption expenditure (% of GDP),2014,8.483943740754025
+718,United Arab Emirates,General government final consumption expenditure (% of GDP),2014,10.931864371333067
+719,Zambia,General government final consumption expenditure (% of GDP),2014,14.523945779887029
+720,Australia,General government final consumption expenditure (% of GDP),2015,18.060742299186078
+721,China,General government final consumption expenditure (% of GDP),2015,14.036066058409643
+722,India,General government final consumption expenditure (% of GDP),2015,10.42829070918621
+723,Japan,General government final consumption expenditure (% of GDP),2015,19.818026732675875
+724,"Korea, Rep.",General government final consumption expenditure (% of GDP),2015,15.009450338301205
+725,Mexico,General government final consumption expenditure (% of GDP),2015,12.330906513605148
+726,Switzerland,General government final consumption expenditure (% of GDP),2015,11.93306817799706
+727,Turkey,General government final consumption expenditure (% of GDP),2015,13.87774377612025
+728,United Kingdom,General government final consumption expenditure (% of GDP),2015,19.49375448641971
+729,United States,General government final consumption expenditure (% of GDP),2015,14.359746790115329
+730,Angola,General government final consumption expenditure (% of GDP),2015,16.43283224878854
+731,Botswana,General government final consumption expenditure (% of GDP),2015,20.577449486979543
+732,Burkina Faso,General government final consumption expenditure (% of GDP),2015,23.19170556326889
+733,Burundi,General government final consumption expenditure (% of GDP),2015,22.421114994017167
+734,Cameroon,General government final consumption expenditure (% of GDP),2015,12.276779342099607
+735,Canada,General government final consumption expenditure (% of GDP),2015,20.926344540586868
+736,Chile,General government final consumption expenditure (% of GDP),2015,12.993892531001286
+737,Colombia,General government final consumption expenditure (% of GDP),2015,14.811629791274179
+738,"Congo, Rep.",General government final consumption expenditure (% of GDP),2015,18.13689879276716
+739,Cote d'Ivoire,General government final consumption expenditure (% of GDP),2015,11.940737462568347
+740,Czech Republic,General government final consumption expenditure (% of GDP),2015,19.216094406546176
+741,Denmark,General government final consumption expenditure (% of GDP),2015,25.469199603544606
+742,Ethiopia,General government final consumption expenditure (% of GDP),2015,9.013788576030427
+743,Ghana,General government final consumption expenditure (% of GDP),2015,9.656949101094845
+744,Hungary,General government final consumption expenditure (% of GDP),2015,19.815902186458356
+745,Iceland,General government final consumption expenditure (% of GDP),2015,23.393615039098627
+746,Israel,General government final consumption expenditure (% of GDP),2015,22.46381779443484
+747,Kenya,General government final consumption expenditure (% of GDP),2015,14.087628132539692
+748,Lesotho,General government final consumption expenditure (% of GDP),2015,35.24404094901802
+749,Madagascar,General government final consumption expenditure (% of GDP),2015,15.140320198737534
+750,Malawi,General government final consumption expenditure (% of GDP),2015,13.899496578932657
+751,Mali,General government final consumption expenditure (% of GDP),2015,16.371548466374445
+752,Mauritius,General government final consumption expenditure (% of GDP),2015,14.9334094507591
+753,Namibia,General government final consumption expenditure (% of GDP),2015,25.625806448449058
+754,Niger,General government final consumption expenditure (% of GDP),2015,17.888741934078354
+755,Nigeria,General government final consumption expenditure (% of GDP),2015,6.6881203826434
+756,Norway,General government final consumption expenditure (% of GDP),2015,23.23902148646425
+757,Poland,General government final consumption expenditure (% of GDP),2015,18.039179525237387
+758,Rwanda,General government final consumption expenditure (% of GDP),2015,14.643092088176282
+759,Senegal,General government final consumption expenditure (% of GDP),2015,14.299580347711895
+760,Seychelles,General government final consumption expenditure (% of GDP),2015,20.325794830284426
+761,South Africa,General government final consumption expenditure (% of GDP),2015,20.45438832322111
+762,Sweden,General government final consumption expenditure (% of GDP),2015,25.813771578779125
+763,Tanzania,General government final consumption expenditure (% of GDP),2015,9.927294507165032
+764,Togo,General government final consumption expenditure (% of GDP),2015,17.989406002240493
+765,Uganda,General government final consumption expenditure (% of GDP),2015,9.302974269589502
+766,United Arab Emirates,General government final consumption expenditure (% of GDP),2015,12.428578271371777
+767,Zambia,General government final consumption expenditure (% of GDP),2015,14.780585349308078
